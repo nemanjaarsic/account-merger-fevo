@@ -1,0 +1,7 @@
+*.exe
+.vscode
+.DS_Store
+*.deb
+__debug_bin
+accounts.json
+main
